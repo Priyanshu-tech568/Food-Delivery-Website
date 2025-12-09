@@ -31,7 +31,7 @@ a.active {
 
     background:
       linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),
-      url("assets/istockphoto-2198610217-612x612.jpg") center/cover no-repeat;
+      url("istockphoto-2198610217-612x612.jpg") center/cover no-repeat;
 
     display:flex;
     flex-direction:column;
@@ -194,3 +194,4 @@ a.active {
     border-radius:6px;
     cursor:pointer;
 }
+
